@@ -13,7 +13,7 @@ In this course, i have learnt how to create the following chart types using Plot
 * Choropleth maps.
 
 
-The following datasets have been used in this course:
+Here are the list of the datasets that have been used in this course:
 * All stocks 5 year price.
 * Apple stock price 5 years.
 * Auto MPG Dataset.
