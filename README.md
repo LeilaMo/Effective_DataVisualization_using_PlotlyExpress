@@ -24,6 +24,7 @@ Here are the list of the datasets that have been used in this course:
 * World Happiness ranking 2019.
 
 
+** Important Note: ** Since Plotly and Plotly express use interactive visualization, in order to see the plots one has to open the files using Google Colab!
 
 If you are intersted here is also the link to the course:
 https://www.udemy.com/course/learn-effective-data-visualization-using-plotly-express/learn/lecture/23732116#questions
